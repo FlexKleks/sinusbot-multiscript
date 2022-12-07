@@ -17,7 +17,7 @@ _____________________
 
 3.) Run the command ``./gameos-multiscript.sh.x``
 
+__________________________
 
-
-Discord Server:
+**Discord Server:**
 https://discord.gg/GMkvR4U

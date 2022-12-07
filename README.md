@@ -16,3 +16,8 @@ _____________________
 2.) Run ``chmod +x gameos-multiscript.sh.x``
 
 3.) Run the command ``./gameos-multiscript.sh.x``
+
+
+
+Discord Server:
+https://discord.gg/GMkvR4U
